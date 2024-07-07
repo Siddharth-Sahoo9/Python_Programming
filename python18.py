@@ -27,3 +27,6 @@ fruit={"apple", "banana", "strawberry", "Litchi", "Custard apple", "orange"}
 for i,m in enumerate(fruit,start=1):    #start=1
     print(f"{i} - {m}")
 
+def welcome():
+    print("Welcome to the 100 days of python programming course.")
+
